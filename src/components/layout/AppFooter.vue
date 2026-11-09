@@ -15,7 +15,7 @@ const year = new Date().getFullYear()
     </div>
     <div class="footer-bottom">
       <div class="container">
-        <span>© {{ year }} Arla Cristina — Advocacia Previdenciária</span>
+        <span>© {{ year }} Arla Cristina — Advogada Previdenciária</span>
         <span>Conteúdo informativo. Cada caso exige análise individual.</span>
       </div>
     </div>

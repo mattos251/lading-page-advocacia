@@ -1,9 +1,9 @@
 export const navLinks = [
-  { label: 'Início', href: '#inicio' },
-  { label: 'Áreas de atuação', href: '#atuacao' },
-  { label: 'Sobre', href: '#sobre' },
-  { label: 'Como atuo', href: '#diferenciais' },
-  { label: 'Contato', href: '#contato' }
+  { label: 'INÍCIO', href: '#inicio' },
+  { label: 'ÁREAS DE ATUAÇÃO', href: '#atuacao' },
+  { label: 'SOBRE', href: '#sobre' },
+  // { label: 'Como atuo', href: '#diferenciais' },
+  { label: 'CONTATO', href: '#contato' }
 ]
 
 export const services = [

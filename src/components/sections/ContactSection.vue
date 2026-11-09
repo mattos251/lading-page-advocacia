@@ -41,7 +41,7 @@ import { buildWhatsappUrl } from '../../utils/whatsapp'
 }
 
 .contact-symbol {
-  font-family: var(--serif);
+  font-family: var(--montse);
   color: var(--gold);
   font-size: 43px;
   border-right: 1px solid #d9c1a5;
@@ -53,7 +53,7 @@ import { buildWhatsappUrl } from '../../utils/whatsapp'
 }
 
 .contact-copy h2 {
-  font-family: var(--serif);
+  font-family: var(--montse);
   font-size: clamp(25px, 3vw, 34px);
   line-height: 1.14;
   color: var(--brown-deep);
